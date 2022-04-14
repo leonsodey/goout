@@ -1,23 +1,23 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "goout",
+  "description": "出国旅游",
   "keywords": [
     "v2ray VMess VLESS"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
-      "value": "vmess",
+      "description": "出国的协议",
+      "value": "vless",
       "required": true
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb",
+      "value": "3f387c17-25cc-483c-9fdf-ba7055aac5e7",
       "required": false
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/goout",
       "required": true
     }
   },
