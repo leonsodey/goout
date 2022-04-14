@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/leonsodey/XrayHeroKu",
-  "repository": "https://github.com/leonsodey/XrayHeroKu",
+  "website": "https://github.com/leonsodey/goout",
+  "repository": "https://github.com/leonsodey/goout",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
